@@ -15,6 +15,7 @@ public class ExemploGitHub {
    */
   public static void main(String[] args) {
     System.out.println("Exemplo de utilização do GitHub.");
+    System.out.println("Teste de atualização de repositório.");
   }
   
 }
